@@ -1,2 +1,2 @@
 #oe-working-tree-clean
-update readme 7
+update readme 2
